@@ -1,5 +1,7 @@
-# Snaplight
+![Banner](assets/banner.png)
 
 ---
+
+# Snaplight
 
 **Snaplight** is a lightweight Tkinter screenshot tool with annotation & save built for ultra low RAM use (<50MB)
